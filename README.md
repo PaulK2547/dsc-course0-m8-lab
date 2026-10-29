@@ -8,3 +8,6 @@ The following columns have been selected to provide the neccessary information r
 6. Injury.Severity, Total.Fatal.Injuries,Total.Serious.Injuries and Total.Uninjured - Will assist in assesing passenger survivability
 7. FAR.Description-Helps identify commercial operations
 8. Purpose.of.flight-Can distinguish personal vs professional use
+
+# Data cleaning for other columns
+The columns Engine.Type, Weather.Condition, Purpose.of.flight, and Broad.phase.of.flight were inspected for inconsistent formatting. Cleaning involved removing leading/trailing whitespace
