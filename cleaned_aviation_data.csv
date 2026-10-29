@@ -1,0 +1,241 @@
+Event.Date,Aircraft.Category,Make,Model,Amateur.Built,Aircraft.damage,Injury.Severity,Total.Fatal.Injuries,Total.Serious.Injuries,Total.Uninjured,FAR.Description,Total.Passengers,fatal.serious.injuries,fatal.seriuos.rate,damage.score,Plane_Type,Engine.Type,Weather.Condition
+1983-03-18,Airplane,Lockheed,L-1011,No,Minor,Incident,0.0,0.0,588.0,Part 121: Air Carrier,588.0,0.0,0.0,1,LOCKHEED_L-1011,Turbo Fan,VMC
+1983-03-18,Airplane,Boeing,747,No,Minor,Incident,0.0,0.0,588.0,Part 129: Foreign,588.0,0.0,0.0,1,BOEING_747,Turbo Fan,VMC
+1983-08-21,Airplane,Douglas,DC-10-10,No,Minor,Incident,0.0,0.0,289.0,Part 121: Air Carrier,289.0,0.0,0.0,1,DOUGLAS_DC-10-10,Turbo Fan,VMC
+1983-10-28,Airplane,Short Brothers,SD3-30,No,0,Fatal(1),1.0,0.0,29.0,Part 135: Air Taxi & Commuter,30.0,1.0,0.03333333333333333,0,SHORT BROTHERS_SD3-30,Turbo Prop,VMC
+1983-11-08,Airplane,Boeing,727-200,No,Minor,Incident,0.0,0.0,100.0,Part 121: Air Carrier,100.0,0.0,0.0,1,BOEING_727-200,Turbo Fan,VMC
+1984-03-14,Airplane,Beech,99,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,BEECH_99,Turbo Prop,VMC
+1984-06-11,Airplane,Lockheed,L-1011-385-3,No,Substantial,Non-Fatal,0.0,0.0,157.0,Part 121: Air Carrier,157.0,0.0,0.0,2,LOCKHEED_L-1011-385-3,Turbo Fan,VMC
+1984-10-26,Airplane,Swearingen,SA226TC,No,Minor,Incident,0.0,0.0,9.0,Part 135: Air Taxi & Commuter,9.0,0.0,0.0,1,SWEARINGEN_SA226TC,Turbo Prop,IMC
+1986-05-30,Airplane,Douglas,DC-9-31,No,0,Incident,0.0,0.0,69.0,Part 121: Air Carrier,69.0,0.0,0.0,0,DOUGLAS_DC-9-31,Turbo Fan,VMC
+1987-01-15,Airplane,Swearingen,SA-226TC,No,Destroyed,Fatal(10),10.0,0.0,0.0,Part 135: Air Taxi & Commuter,10.0,10.0,1.0,3,SWEARINGEN_SA-226TC,Turbo Prop,VMC
+1987-02-14,Airplane,Boeing,707-323B,No,0,Fatal(1),1.0,0.0,131.0,Part 121: Air Carrier,132.0,1.0,0.007575757575757576,0,BOEING_707-323B,Turbo Jet,UNK
+1988-04-05,Airplane,Beech,B90,No,Substantial,Non-Fatal,0.0,0.0,5.0,Part 135: Air Taxi & Commuter,5.0,0.0,0.0,2,BEECH_B90,Turbo Prop,IMC
+1988-04-16,Airplane,Boeing,757-225,No,0,Non-Fatal,0.0,1.0,192.0,Part 121: Air Carrier,193.0,1.0,0.0051813471502590676,0,BOEING_757-225,Unknown,UNK
+1988-05-02,Airplane,Boeing,747-123,No,Minor,Incident,0.0,0.0,258.0,Part 121: Air Carrier,258.0,0.0,0.0,1,BOEING_747-123,Turbo Fan,VMC
+1988-11-14,Airplane,Airbus Industrie,A-300B4-203,No,0,Non-Fatal,0.0,1.0,222.0,Part 121: Air Carrier,223.0,1.0,0.004484304932735426,0,AIRBUS INDUSTRIE_A-300B4-203,Unknown,VMC
+1988-12-23,Airplane,Boeing,747SP-21,No,0,Non-Fatal,0.0,1.0,220.0,Part 121: Air Carrier,221.0,1.0,0.004524886877828055,0,BOEING_747SP-21,Turbo Fan,UNK
+1990-01-29,Airplane,Cessna,208B,No,Destroyed,Fatal(2),2.0,0.0,0.0,Part 135: Air Taxi & Commuter,2.0,2.0,1.0,3,CESSNA_208B,Turbo Prop,IMC
+1990-04-09,Airplane,Embraer,EMB-120,No,Substantial,Fatal(2),2.0,0.0,7.0,Part 135: Air Taxi & Commuter,9.0,2.0,0.2222222222222222,2,EMBRAER_EMB-120,Turbo Prop,VMC
+1990-04-16,Airplane,Embraer,EMB-110,No,Substantial,Non-Fatal,0.0,0.0,8.0,Part 135: Air Taxi & Commuter,8.0,0.0,0.0,2,EMBRAER_EMB-110,Turbo Prop,VMC
+1990-04-30,Airplane,Beech,C99 AIRLINER,No,Destroyed,Fatal(1),1.0,3.0,0.0,Part 129: Foreign,4.0,4.0,1.0,3,BEECH_C99 AIRLINER,Unknown,UNK
+1990-07-27,Airplane,Mcdonnell Douglas,DC-10-30,No,0,Non-Fatal,0.0,1.0,3.0,Part 121: Air Carrier,4.0,1.0,0.25,0,MCDONNELL DOUGLAS_DC-10-30,Unknown,UNK
+1990-10-06,Airplane,Cessna,185B,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,CESSNA_185B,Reciprocating,VMC
+1991-06-06,Airplane,Boeing,727-214,No,Minor,Incident,0.0,0.0,156.0,Part 121: Air Carrier,156.0,0.0,0.0,1,BOEING_727-214,Turbo Fan,VMC
+1991-09-19,Airplane,Piper,PA-18-150,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,PIPER_PA-18-150,Reciprocating,VMC
+1991-12-12,Airplane,Boeing,B-747-121,No,Minor,Incident,0.0,0.0,0.0,Part 121: Air Carrier,0.0,0.0,0.0,1,BOEING_B-747-121,Unknown,VMC
+1991-12-13,Airplane,Piper,"PA-31T3, T1040",No,Destroyed,Fatal(1),1.0,0.0,0.0,Part 135: Air Taxi & Commuter,1.0,1.0,1.0,3,"PIPER_PA-31T3, T1040",Turbo Prop,IMC
+1992-03-22,Airplane,Fokker,28-4000,No,Destroyed,Fatal(27),27.0,9.0,3.0,Part 121: Air Carrier,39.0,36.0,0.9230769230769231,3,FOKKER_28-4000,Turbo Fan,IMC
+1992-07-30,Airplane,Lockheed,L-1011-385-1,No,Destroyed,Non-Fatal,0.0,1.0,282.0,Part 121: Air Carrier,283.0,1.0,0.0035335689045936395,3,LOCKHEED_L-1011-385-1,Turbo Fan,VMC
+1993-12-12,Airplane,Piper,PA-32,No,Substantial,Non-Fatal,0.0,0.0,5.0,Part 135: Air Taxi & Commuter,5.0,0.0,0.0,2,PIPER_PA-32,Reciprocating,VMC
+1994-08-31,Airplane,Cessna,208,No,Substantial,Non-Fatal,0.0,0.0,2.0,Part 135: Air Taxi & Commuter,2.0,0.0,0.0,2,CESSNA_208,Turbo Prop,VMC
+1995-03-12,Airplane,Lockheed,L-1011-385,No,Minor,Non-Fatal,0.0,0.0,339.0,Part 121: Air Carrier,339.0,0.0,0.0,1,LOCKHEED_L-1011-385,Turbo Fan,VMC
+1995-03-12,Airplane,Short Brothers,SD3-60,No,Substantial,Non-Fatal,0.0,0.0,339.0,Part 121: Air Carrier,339.0,0.0,0.0,2,SHORT BROTHERS_SD3-60,Turbo Prop,VMC
+1995-04-28,Airplane,Douglas,DC-8F-54,No,Destroyed,Fatal(6),6.0,1.0,1.0,Part 121: Air Carrier,8.0,7.0,0.875,3,DOUGLAS_DC-8F-54,Unknown,IMC
+1995-05-19,Airplane,Boeing,737-500,No,Minor,Incident,0.0,0.0,288.0,Part 121: Air Carrier,288.0,0.0,0.0,1,BOEING_737-500,Turbo Fan,VMC
+1995-05-19,Airplane,Boeing,767-383ER,No,Minor,Incident,0.0,0.0,288.0,Part 129: Foreign,288.0,0.0,0.0,1,BOEING_767-383ER,Turbo Fan,VMC
+1995-11-07,Airplane,Boeing,B727-224,No,Minor,Incident,0.0,0.0,10.0,Part 121: Air Carrier,10.0,0.0,0.0,1,BOEING_B727-224,Unknown,UNK
+1995-12-20,Airplane,Boeing,B757,No,Destroyed,Fatal(160),160.0,4.0,0.0,Part 121: Air Carrier,164.0,164.0,1.0,3,BOEING_B757,Unknown,VMC
+1996-02-07,Airplane,Beech,1900D,No,Substantial,Non-Fatal,0.0,0.0,14.0,Part 135: Air Taxi & Commuter,14.0,0.0,0.0,2,BEECH_1900D,Turbo Prop,IMC
+1996-03-13,Airplane,Cessna,185,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,CESSNA_185,Reciprocating,VMC
+1996-07-06,Airplane,Mcdonnell Douglas,MD-88,No,Substantial,Fatal(2),2.0,2.0,137.0,Part 121: Air Carrier,141.0,4.0,0.028368794326241134,2,MCDONNELL DOUGLAS_MD-88,Turbo Jet,VMC
+1996-10-31,Airplane,Fokker,100,No,Destroyed,Fatal(97),97.0,4.0,0.0,Part 129: Foreign,101.0,101.0,1.0,3,FOKKER_100,Unknown,VMC
+1996-11-06,Airplane,Mcdonnell Douglas,MD-11,No,Minor,Incident,0.0,0.0,282.0,Part 121: Air Carrier,282.0,0.0,0.0,1,MCDONNELL DOUGLAS_MD-11,Unknown,UNK
+1996-11-23,Airplane,Boeing,767,No,Destroyed,Fatal(125),125.0,44.0,4.0,Part 129: Foreign,173.0,169.0,0.976878612716763,3,BOEING_767,Unknown,VMC
+1997-03-07,Airplane,Britten-norman,BN2A-26,No,Destroyed,Non-Fatal,0.0,1.0,0.0,Part 129: Foreign,1.0,1.0,1.0,3,BRITTEN-NORMAN_BN2A-26,Unknown,IMC
+1997-04-30,Airplane,Cessna,208,No,Destroyed,Fatal(2),2.0,0.0,0.0,Part 129: Foreign,2.0,2.0,1.0,3,CESSNA_208,Unknown,UNK
+1997-05-04,Airplane,Boeing,737-201,No,0,Non-Fatal,0.0,1.0,96.0,Part 121: Air Carrier,97.0,1.0,0.010309278350515464,0,BOEING_737-201,Turbo Jet,VMC
+1997-05-14,Airplane,Boeing,747-400,No,Minor,Non-Fatal,0.0,0.0,573.0,Part 129: Foreign,573.0,0.0,0.0,1,BOEING_747-400,Turbo Fan,VMC
+1997-05-14,Airplane,Boeing,B777,No,Substantial,Non-Fatal,0.0,0.0,573.0,Part 121: Air Carrier,573.0,0.0,0.0,2,BOEING_B777,Turbo Fan,VMC
+1997-06-03,Airplane,Boeing,767-300,No,0,Non-Fatal,0.0,1.0,122.0,Part 121: Air Carrier,123.0,1.0,0.008130081300813009,0,BOEING_767-300,Unknown,UNK
+1997-07-12,Airplane,Mcdonnell Douglas,DC-9-15,No,0,Incident,0.0,0.0,75.0,Part 121: Air Carrier,75.0,0.0,0.0,0,MCDONNELL DOUGLAS_DC-9-15,Turbo Jet,VMC
+1997-07-21,Airplane,Learjet,LR-31,No,Destroyed,Unavailable,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,3,LEARJET_LR-31,Unknown,UNK
+1997-08-02,Airplane,Boeing,757-200,No,0,Fatal(1),1.0,0.0,149.0,Part 121: Air Carrier,150.0,1.0,0.006666666666666667,0,BOEING_757-200,Unknown,UNK
+1997-08-06,Airplane,Boeing,747-300,No,Destroyed,Fatal(228),228.0,26.0,0.0,Part 129: Foreign,254.0,254.0,1.0,3,BOEING_747-300,Turbo Fan,IMC
+1997-08-23,Airplane,Beech,95-B55,No,Destroyed,Fatal(1),1.0,0.0,0.0,Part 135: Air Taxi & Commuter,1.0,1.0,1.0,3,BEECH_95-B55,Reciprocating,VMC
+1997-09-02,Airplane,De Havilland,DHC-2,No,Minor,Incident,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,1,DE HAVILLAND_DHC-2,Unknown,UNK
+1997-10-08,Airplane,Cessna,208B,No,Destroyed,Fatal(9),9.0,0.0,0.0,Part 135: Air Taxi & Commuter,9.0,9.0,1.0,3,CESSNA_208B,Turbo Prop,IMC
+1997-10-09,Airplane,Beech,BE-200,No,Destroyed,Fatal(8),8.0,0.0,0.0,Part 129: Foreign,8.0,8.0,1.0,3,BEECH_BE-200,Unknown,IMC
+1997-11-18,Airplane,Mcdonnell Douglas,DC-8F,No,Substantial,Non-Fatal,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,2,MCDONNELL DOUGLAS_DC-8F,Unknown,UNK
+1997-11-23,Airplane,Mcdonnell Douglas,MD-83,No,0,Incident,0.0,0.0,138.0,Part 129: Foreign,138.0,0.0,0.0,0,MCDONNELL DOUGLAS_MD-83,Unknown,UNK
+1998-01-09,Airplane,Boeing,767-322ER,No,Minor,Non-Fatal,0.0,1.0,87.0,Part 121: Air Carrier,88.0,1.0,0.011363636363636364,1,BOEING_767-322ER,Turbo Fan,UNK
+1998-01-20,Airplane,Saab-scania Ab (saab),2000,No,0,Incident,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,0,SAAB-SCANIA AB (SAAB)_2000,Unknown,UNK
+1998-02-17,Airplane,Boeing,757-200,No,Minor,Incident,0.0,0.0,2.0,Part 129: Foreign,2.0,0.0,0.0,1,BOEING_757-200,Unknown,UNK
+1998-03-03,Airplane,Fokker,F-100,No,Substantial,Non-Fatal,0.0,0.0,51.0,Part 129: Foreign,51.0,0.0,0.0,2,FOKKER_F-100,Unknown,UNK
+1998-03-08,Airplane,Mcdonnell Douglas,DC-10-30,No,Minor,Incident,0.0,0.0,253.0,Part 121: Air Carrier,253.0,0.0,0.0,1,MCDONNELL DOUGLAS_DC-10-30,Unknown,UNK
+1998-03-08,Airplane,Mcdonnell Douglas,DC8-73,No,0,Incident,0.0,0.0,3.0,Part 121: Air Carrier,3.0,0.0,0.0,0,MCDONNELL DOUGLAS_DC8-73,Unknown,UNK
+1998-03-10,Airplane,Boeing,707-336,No,Destroyed,Fatal(6),6.0,0.0,0.0,Part 129: Foreign,6.0,6.0,1.0,3,BOEING_707-336,Unknown,UNK
+1998-05-29,Airplane,Boeing,B-737-500,No,Substantial,Unavailable,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,2,BOEING_B-737-500,Unknown,UNK
+1998-06-06,Airplane,Mcdonnell Douglas,MD-83,No,0,Non-Fatal,0.0,0.0,173.0,Part 129: Foreign,173.0,0.0,0.0,0,MCDONNELL DOUGLAS_MD-83,Unknown,UNK
+1998-06-27,Airplane,Boeing,737-800,No,0,Incident,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,0,BOEING_737-800,Unknown,UNK
+1998-07-02,Airplane,Boeing,737-400,No,0,Incident,0.0,0.0,5.0,Part 129: Foreign,5.0,0.0,0.0,0,BOEING_737-400,Unknown,UNK
+1998-07-09,Airplane,Airbus Industrie,A300,No,Minor,Incident,0.0,0.0,1.0,Part 121: Air Carrier,1.0,0.0,0.0,1,AIRBUS INDUSTRIE_A300,Unknown,UNK
+1998-07-10,Airplane,Molino Oy,MU2-2B-25,No,Substantial,Non-Fatal,0.0,0.0,5.0,Part 129: Foreign,5.0,0.0,0.0,2,MOLINO OY_MU2-2B-25,Unknown,UNK
+1998-07-19,Airplane,Lockheed,L-1011,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 129: Foreign,1.0,0.0,0.0,2,LOCKHEED_L-1011,Unknown,UNK
+1998-07-20,Airplane,Boeing,747,No,0,Incident,0.0,0.0,3.0,Part 121: Air Carrier,3.0,0.0,0.0,0,BOEING_747,Unknown,UNK
+1998-07-29,Airplane,Boeing,777,No,Minor,Incident,0.0,0.0,1.0,Part 121: Air Carrier,1.0,0.0,0.0,1,BOEING_777,Unknown,UNK
+1998-08-21,Airplane,Britten-norman,BN-2A-26,No,Destroyed,Non-Fatal,0.0,0.0,5.0,Part 129: Foreign,5.0,0.0,0.0,3,BRITTEN-NORMAN_BN-2A-26,Unknown,UNK
+1998-08-28,Airplane,Airbus Industrie,319,No,Minor,Incident,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,1,AIRBUS INDUSTRIE_319,Unknown,UNK
+1998-08-28,Airplane,Dassault,FALCON DA-20,No,Substantial,Non-Fatal,0.0,1.0,0.0,Part 135: Air Taxi & Commuter,1.0,1.0,1.0,2,DASSAULT_FALCON DA-20,Turbo Fan,VMC
+1998-09-12,Airplane,Boeing,767,No,Substantial,Incident,0.0,0.0,200.0,Part 129: Foreign,200.0,0.0,0.0,2,BOEING_767,Unknown,VMC
+1998-10-13,Airplane,Mcdonnell Douglas,DC-10-30,No,Minor,Incident,0.0,0.0,0.0,Part 121: Air Carrier,0.0,0.0,0.0,1,MCDONNELL DOUGLAS_DC-10-30,Unknown,UNK
+1998-11-03,Airplane,Saab-scania Ab (saab),340A,No,Minor,Fatal(1),1.0,0.0,11.0,Part 121: Air Carrier,12.0,1.0,0.08333333333333333,1,SAAB-SCANIA AB (SAAB)_340A,Turbo Prop,VMC
+1998-11-11,Airplane,Boeing,777-222B,No,0,Non-Fatal,0.0,1.0,227.0,Part 121: Air Carrier,228.0,1.0,0.0043859649122807015,0,BOEING_777-222B,Turbo Fan,UNK
+1998-11-11,Airplane,Saab-scania Ab (saab),340,No,0,Incident,0.0,0.0,30.0,Part 129: Foreign,30.0,0.0,0.0,0,SAAB-SCANIA AB (SAAB)_340,Unknown,IMC
+1998-12-05,Airplane,Beech,KINGAIR 300,No,Destroyed,Fatal(2),2.0,0.0,0.0,Part 129: Foreign,2.0,2.0,1.0,3,BEECH_KINGAIR 300,Unknown,UNK
+1998-12-25,Airplane,Mcdonnell Douglas,MD-11,No,Substantial,Incident,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,2,MCDONNELL DOUGLAS_MD-11,Unknown,UNK
+1998-12-28,Airplane,Embraer,EMB-145,No,Substantial,Incident,0.0,0.0,40.0,Part 129: Foreign,40.0,0.0,0.0,2,EMBRAER_EMB-145,Unknown,UNK
+1999-01-15,Airplane,Boeing,767-300,No,Substantial,Non-Fatal,0.0,0.0,91.0,Part 121: Air Carrier,91.0,0.0,0.0,2,BOEING_767-300,Turbo Fan,UNK
+1999-01-28,Airplane,Mcdonnell Douglas,MD-82,No,Substantial,Unavailable,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,2,MCDONNELL DOUGLAS_MD-82,Unknown,UNK
+1999-02-07,Airplane,Boeing,707,No,Substantial,Non-Fatal,0.0,0.0,4.0,Part 129: Foreign,4.0,0.0,0.0,2,BOEING_707,Unknown,UNK
+1999-02-08,Airplane,Boeing,747-200,No,Minor,Incident,0.0,0.0,3.0,Part 129: Foreign,3.0,0.0,0.0,1,BOEING_747-200,Unknown,UNK
+1999-03-04,Airplane,Boeing,737-228,No,Substantial,Unavailable,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,2,BOEING_737-228,Unknown,IMC
+1999-03-05,Airplane,Boeing,747-200F,No,Destroyed,Non-Fatal,0.0,0.0,2.0,Part 129: Foreign,2.0,0.0,0.0,3,BOEING_747-200F,Unknown,UNK
+1999-03-10,Airplane,Boeing,727-200,No,Minor,Incident,0.0,0.0,96.0,Part 121: Air Carrier,96.0,0.0,0.0,1,BOEING_727-200,Unknown,UNK
+1999-03-20,Airplane,Boeing,MD80/87,No,Minor,Incident,0.0,0.0,2.0,Part 129: Foreign,2.0,0.0,0.0,1,BOEING_MD80/87,Unknown,UNK
+1999-06-09,Airplane,Boeing,757,No,Minor,Incident,0.0,0.0,94.0,Part 121: Air Carrier,94.0,0.0,0.0,1,BOEING_757,Unknown,UNK
+1999-06-24,Airplane,Mcdonnell Douglas,DC-10,No,0,Incident,0.0,0.0,3.0,Part 121: Air Carrier,3.0,0.0,0.0,0,MCDONNELL DOUGLAS_DC-10,Unknown,UNK
+1999-06-28,Airplane,Airbus Industrie,A310,No,Substantial,Non-Fatal,0.0,0.0,3.0,Part 121: Air Carrier,3.0,0.0,0.0,2,AIRBUS INDUSTRIE_A310,Turbo Fan,VMC
+1999-06-30,Airplane,Mcdonnell Douglas,MD-11,No,Substantial,Non-Fatal,0.0,0.0,2.0,Part 121: Air Carrier,2.0,0.0,0.0,2,MCDONNELL DOUGLAS_MD-11,Turbo Fan,UNK
+1999-06-30,Airplane,Beech,99,No,Destroyed,Fatal(2),2.0,0.0,0.0,Part 129: Foreign,2.0,2.0,1.0,3,BEECH_99,Unknown,UNK
+1999-07-29,Airplane,Embraer,EMB-110,No,Destroyed,Non-Fatal,0.0,0.0,18.0,Part 129: Foreign,18.0,0.0,0.0,3,EMBRAER_EMB-110,Unknown,UNK
+1999-08-08,Airplane,Mcdonnell Douglas,MD-11,No,Substantial,Non-Fatal,0.0,0.0,191.0,Part 129: Foreign,191.0,0.0,0.0,2,MCDONNELL DOUGLAS_MD-11,Unknown,VMC
+1999-08-21,Airplane,Hawker Siddeley,800XP,No,0,Unavailable,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,0,HAWKER SIDDELEY_800XP,Unknown,UNK
+1999-08-23,Airplane,Mcdonnell Douglas,MD-11,No,Destroyed,Non-Fatal,0.0,0.0,117.0,Part 129: Foreign,117.0,0.0,0.0,3,MCDONNELL DOUGLAS_MD-11,Unknown,UNK
+1999-08-24,Airplane,Boeing,767,No,Minor,Incident,0.0,0.0,191.0,Part 129: Foreign,191.0,0.0,0.0,1,BOEING_767,Unknown,UNK
+1999-08-26,Airplane,Boeing,737-200,No,0,Incident,0.0,0.0,5.0,Part 129: Foreign,5.0,0.0,0.0,0,BOEING_737-200,Unknown,UNK
+1999-09-02,Airplane,Boeing,747SP,No,Substantial,Incident,0.0,0.0,3.0,Part 129: Foreign,3.0,0.0,0.0,2,BOEING_747SP,Unknown,UNK
+1999-09-18,Airplane,Mcdonnell Douglas,MD-11,No,Minor,Incident,0.0,0.0,0.0,Part 121: Air Carrier,0.0,0.0,0.0,1,MCDONNELL DOUGLAS_MD-11,Unknown,UNK
+1999-09-23,Airplane,Boeing,747-400,No,Substantial,Unavailable,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,2,BOEING_747-400,Unknown,IMC
+1999-11-05,Airplane,Boeing,777-200,No,Substantial,Non-Fatal,0.0,0.0,274.0,Part 121: Air Carrier,274.0,0.0,0.0,2,BOEING_777-200,Turbo Fan,UNK
+1999-12-13,Airplane,Boeing,777-222,No,0,Non-Fatal,0.0,1.0,185.0,Part 121: Air Carrier,186.0,1.0,0.005376344086021506,0,BOEING_777-222,Turbo Fan,IMC
+1999-12-21,Airplane,Mcdonnell Douglas,DC-10-30,No,Destroyed,Fatal(18),18.0,10.0,261.0,Part 129: Foreign,289.0,28.0,0.09688581314878893,3,MCDONNELL DOUGLAS_DC-10-30,Unknown,UNK
+2000-01-02,Airplane,Boeing,737-3K2,No,Minor,Incident,0.0,0.0,143.0,Part 129: Foreign,143.0,0.0,0.0,1,BOEING_737-3K2,Unknown,UNK
+2000-01-30,Airplane,Airbus Industrie,A 310,No,Destroyed,Fatal(169),169.0,0.0,0.0,Part 129: Foreign,169.0,169.0,1.0,3,AIRBUS INDUSTRIE_A 310,Unknown,UNK
+2000-02-12,Airplane,Boeing,B 727-100,No,Destroyed,Non-Fatal,0.0,0.0,7.0,Part 129: Foreign,7.0,0.0,0.0,3,BOEING_B 727-100,Unknown,IMC
+2000-02-16,Airplane,Cessna,208B,No,Substantial,Fatal(1),1.0,0.0,1.0,Part 135: Air Taxi & Commuter,2.0,1.0,0.5,2,CESSNA_208B,Turbo Prop,VMC
+2000-02-16,Airplane,Douglas,DC-8-71F,No,Destroyed,Fatal(3),3.0,0.0,0.0,Part 121: Air Carrier,3.0,3.0,1.0,3,DOUGLAS_DC-8-71F,Turbo Fan,VMC
+2000-02-27,Airplane,Boeing,B737-400,No,Substantial,Non-Fatal,0.0,0.0,123.0,Part 129: Foreign,123.0,0.0,0.0,2,BOEING_B737-400,Unknown,IMC
+2000-03-05,Airplane,Boeing,737-300,No,Destroyed,Non-Fatal,0.0,2.0,98.0,Part 121: Air Carrier,100.0,2.0,0.02,3,BOEING_737-300,Turbo Fan,VMC
+2000-03-20,Airplane,Boeing,727-23,No,Substantial,Unavailable,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,2,BOEING_727-23,Unknown,VMC
+2000-03-26,Airplane,Boeing,B747-267B,No,Substantial,Incident,0.0,0.0,16.0,Part 129: Foreign,16.0,0.0,0.0,2,BOEING_B747-267B,Unknown,UNK
+2000-04-19,Airplane,Boeing,737-200,No,Destroyed,Fatal(131),131.0,0.0,0.0,Part 129: Foreign,131.0,131.0,1.0,3,BOEING_737-200,Unknown,IMC
+2000-04-30,Airplane,British Aerospace,BAE 146-200,No,0,Incident,0.0,0.0,20.0,Part 129: Foreign,20.0,0.0,0.0,0,BRITISH AEROSPACE_BAE 146-200,Turbo Fan,IMC
+2000-05-11,Airplane,Douglas,MD87,No,Minor,Incident,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,1,DOUGLAS_MD87,Unknown,UNK
+2000-05-20,Airplane,Boeing,737-500,No,0,Non-Fatal,0.0,1.0,123.0,Part 121: Air Carrier,124.0,1.0,0.008064516129032258,0,BOEING_737-500,Turbo Fan,IMC
+2000-05-25,Airplane,Mcdonnell Douglas,MD-80,No,Substantial,Non-Fatal,0.0,0.0,153.0,Part 129: Foreign,153.0,0.0,0.0,2,MCDONNELL DOUGLAS_MD-80,Unknown,UNK
+2000-06-12,Airplane,Boeing,747-200,No,Minor,Incident,0.0,0.0,0.0,Part 129: Foreign,0.0,0.0,0.0,1,BOEING_747-200,Unknown,UNK
+2000-07-08,Airplane,Cessna,402C,No,Destroyed,Fatal(1),1.0,0.0,0.0,Part 135: Air Taxi & Commuter,1.0,1.0,1.0,3,CESSNA_402C,Reciprocating,VMC
+2000-07-09,Airplane,Curtis-wright,C-46,No,Destroyed,Fatal(13),13.0,0.0,6.0,Part 129: Foreign,19.0,13.0,0.6842105263157895,3,CURTIS-WRIGHT_C-46,Unknown,VMC
+2000-09-14,Airplane,Cessna,208B,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,CESSNA_208B,Turbo Prop,VMC
+2000-10-10,Airplane,Mcdonnell Douglas,DC-10-30,No,0,Non-Fatal,0.0,2.0,197.0,Part 121: Air Carrier,199.0,2.0,0.010050251256281407,0,MCDONNELL DOUGLAS_DC-10-30,Turbo Fan,VMC
+2000-11-15,Airplane,Boeing,757-200,No,Minor,Incident,0.0,0.0,97.0,Part 129: Foreign,97.0,0.0,0.0,1,BOEING_757-200,Unknown,UNK
+2000-12-27,Airplane,Boeing,767-300ER,No,0,Non-Fatal,0.0,1.0,79.0,Part 121: Air Carrier,80.0,1.0,0.0125,0,BOEING_767-300ER,Turbo Fan,VMC
+2001-02-03,Airplane,Boeing,B-737-832,No,Substantial,Non-Fatal,0.0,0.0,135.0,Part 121: Air Carrier,135.0,0.0,0.0,2,BOEING_B-737-832,Turbo Fan,VMC
+2001-02-03,Airplane,Mcdonnell Douglas,MD-81,No,Minor,Non-Fatal,0.0,0.0,135.0,Part 121: Air Carrier,135.0,0.0,0.0,1,MCDONNELL DOUGLAS_MD-81,Turbo Fan,VMC
+2002-01-08,Airplane,Swearingen,SA-227-AT,No,Substantial,Non-Fatal,0.0,0.0,0.0,Part 135: Air Taxi & Commuter,0.0,0.0,0.0,2,SWEARINGEN_SA-227-AT,Turbo Prop,VMC
+2002-01-24,Airplane,Mcdonnell Douglas,DC-9-41,No,0,Non-Fatal,0.0,1.0,74.0,Part 121: Air Carrier,75.0,1.0,0.013333333333333334,0,MCDONNELL DOUGLAS_DC-9-41,Turbo Jet,VMC
+2002-06-16,Airplane,Mcdonnell Douglas,DC-9-82,No,Substantial,Non-Fatal,0.0,0.0,123.0,Part 121: Air Carrier,123.0,0.0,0.0,2,MCDONNELL DOUGLAS_DC-9-82,Turbo Fan,VMC
+2002-08-27,Airplane,Cessna,A185F,No,Substantial,Fatal(2),2.0,2.0,0.0,Part 135: Air Taxi & Commuter,4.0,4.0,1.0,2,CESSNA_A185F,Reciprocating,VMC
+2002-10-14,Airplane,De Havilland,DHC-8-102,No,Substantial,Non-Fatal,0.0,0.0,33.0,Part 121: Air Carrier,33.0,0.0,0.0,2,DE HAVILLAND_DHC-8-102,Turbo Prop,VMC
+2003-07-09,Airplane,Cessna,208B,No,0,Non-Fatal,0.0,1.0,2.0,Part 135: Air Taxi & Commuter,3.0,1.0,0.3333333333333333,0,CESSNA_208B,Turbo Prop,VMC
+2003-07-22,Airplane,Boeing,757-251,No,0,Non-Fatal,0.0,1.0,110.0,Part 121: Air Carrier,111.0,1.0,0.009009009009009009,0,BOEING_757-251,Turbo Fan,VMC
+2003-08-13,Airplane,Cessna,206,No,Substantial,Non-Fatal,0.0,0.0,4.0,Part 135: Air Taxi & Commuter,4.0,0.0,0.0,2,CESSNA_206,Reciprocating,VMC
+2003-09-02,Airplane,Mcdonnell Douglas,DC-9-82,No,Substantial,Non-Fatal,0.0,0.0,138.0,Part 121: Air Carrier,138.0,0.0,0.0,2,MCDONNELL DOUGLAS_DC-9-82,Turbo Jet,VMC
+2003-09-02,Airplane,Fairchild,Dornier 328-300,No,0,Non-Fatal,0.0,1.0,23.0,Part 121: Air Carrier,24.0,1.0,0.041666666666666664,0,FAIRCHILD_DORNIER 328-300,Turbo Fan,VMC
+2003-10-04,Airplane,Boeing,737,No,Substantial,Non-Fatal,0.0,0.0,76.0,Part 121: Air Carrier,76.0,0.0,0.0,2,BOEING_737,Turbo Fan,VMC
+2003-12-16,Airplane,Beech,99,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,BEECH_99,Turbo Prop,IMC
+2004-06-14,Airplane,Beech,C-45H,No,Destroyed,Fatal(1),1.0,0.0,0.0,Part 135: Air Taxi & Commuter,1.0,1.0,1.0,3,BEECH_C-45H,Turbo Prop,IMC
+2004-06-30,Airplane,Beech,200,No,Substantial,Non-Fatal,0.0,0.0,8.0,Part 135: Air Taxi & Commuter,8.0,0.0,0.0,2,BEECH_200,Turbo Prop,VMC
+2004-07-12,Airplane,Raytheon Corporate Jets,Beechjet 400A,No,0,Incident,0.0,0.0,9.0,Part 135: Air Taxi & Commuter,9.0,0.0,0.0,0,RAYTHEON CORPORATE JETS_BEECHJET 400A,Turbo Fan,IMC
+2004-07-25,Airplane,Boeing,777,No,0,Non-Fatal,0.0,1.0,216.0,Part 121: Air Carrier,217.0,1.0,0.004608294930875576,0,BOEING_777,Turbo Fan,VMC
+2004-08-04,Airplane,Cessna,402C,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,CESSNA_402C,Reciprocating,VMC
+2004-08-13,Airplane,Cessna,U206G,No,Substantial,Non-Fatal,0.0,0.0,3.0,Part 135: Air Taxi & Commuter,3.0,0.0,0.0,2,CESSNA_U206G,Reciprocating,VMC
+2004-08-17,Airplane,Beech,BE-99,No,Destroyed,Fatal(2),2.0,0.0,0.0,Part 135: Air Taxi & Commuter,2.0,2.0,1.0,3,BEECH_BE-99,Turbo Prop,VMC
+2004-09-08,Airplane,Cessna,402C,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,CESSNA_402C,Reciprocating,VMC
+2004-09-24,Airplane,De Havilland,DHC-2,No,Substantial,Non-Fatal,0.0,0.0,3.0,Part 135: Air Taxi & Commuter,3.0,0.0,0.0,2,DE HAVILLAND_DHC-2,Reciprocating,VMC
+2004-10-11,Airplane,Cessna,207,No,Substantial,Non-Fatal,0.0,0.0,3.0,Part 135: Air Taxi & Commuter,3.0,0.0,0.0,2,CESSNA_207,Reciprocating,VMC
+2004-10-19,Airplane,British Aerospace,Jetstream 32,No,Destroyed,Fatal(13),13.0,2.0,0.0,Part 121: Air Carrier,15.0,15.0,1.0,3,BRITISH AEROSPACE_JETSTREAM 32,Turbo Prop,IMC
+2005-02-02,Airplane,Bombardier,CL-600-1A11,No,Substantial,Non-Fatal,0.0,4.0,0.0,Part 135: Air Taxi & Commuter,4.0,4.0,1.0,2,BOMBARDIER_CL-600-1A11,Turbo Fan,VMC
+2005-03-02,Airplane,Boeing,777-200,No,Substantial,Non-Fatal,0.0,0.0,214.0,Part 121: Air Carrier,214.0,0.0,0.0,2,BOEING_777-200,Turbo Fan,VMC
+2005-04-25,Airplane,Boeing,737-282,No,Minor,Incident,0.0,0.0,98.0,Part 121: Air Carrier,98.0,0.0,0.0,1,BOEING_737-282,Turbo Jet,VMC
+2005-05-10,Airplane,Airbus Industrie,A-319-114,No,Substantial,Non-Fatal,0.0,1.0,137.0,Part 121: Air Carrier,138.0,1.0,0.007246376811594203,2,AIRBUS INDUSTRIE_A-319-114,Turbo Fan,VMC
+2005-05-10,Airplane,Mcdonnell Douglas,DC-9-51,No,Substantial,Non-Fatal,0.0,1.0,137.0,Part 121: Air Carrier,138.0,1.0,0.007246376811594203,2,MCDONNELL DOUGLAS_DC-9-51,Turbo Fan,VMC
+2005-05-12,Airplane,Boeing,717-200,No,0,Incident,0.0,0.0,80.0,Part 121: Air Carrier,80.0,0.0,0.0,0,BOEING_717-200,Turbo Fan,IMC
+2005-05-23,Airplane,Piper,PA-18,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,PIPER_PA-18,Reciprocating,VMC
+2005-07-03,Airplane,Cessna,207A,No,Substantial,Non-Fatal,0.0,0.0,5.0,Part 135: Air Taxi & Commuter,5.0,0.0,0.0,2,CESSNA_207A,Reciprocating,VMC
+2005-07-09,Airplane,Cessna,172,No,Substantial,Non-Fatal,0.0,0.0,4.0,Part 135: Air Taxi & Commuter,4.0,0.0,0.0,2,CESSNA_172,Reciprocating,VMC
+2005-07-11,Airplane,Boeing,767-232,No,0,Non-Fatal,0.0,1.0,186.0,Part 121: Air Carrier,187.0,1.0,0.0053475935828877,0,BOEING_767-232,Turbo Fan,VMC
+2005-07-14,Airplane,Piper,PA-32-301,No,Substantial,Non-Fatal,0.0,0.0,2.0,Part 135: Air Taxi & Commuter,2.0,0.0,0.0,2,PIPER_PA-32-301,Reciprocating,VMC
+2005-08-03,Airplane,Airbus Industrie,A320-232,No,Minor,Incident,0.0,0.0,324.0,Part 121: Air Carrier,324.0,0.0,0.0,1,AIRBUS INDUSTRIE_A320-232,Turbo Fan,VMC
+2005-08-03,Airplane,Airbus,A320-232,No,Minor,Incident,0.0,0.0,324.0,Part 121: Air Carrier,324.0,0.0,0.0,1,AIRBUS_A320-232,Turbo Fan,VMC
+2005-08-08,Airplane,Embraer,EMB-145LR,No,Substantial,Non-Fatal,0.0,0.0,205.0,Part 121: Air Carrier,205.0,0.0,0.0,2,EMBRAER_EMB-145LR,Turbo Jet,VMC
+2005-08-08,Airplane,Boeing,737-824,No,Substantial,Non-Fatal,0.0,0.0,205.0,Part 121: Air Carrier,205.0,0.0,0.0,2,BOEING_737-824,Turbo Jet,VMC
+2005-08-19,Airplane,Boeing,747-200,No,Substantial,Non-Fatal,0.0,0.0,338.0,Part 121: Air Carrier,338.0,0.0,0.0,2,BOEING_747-200,Turbo Fan,VMC
+2005-08-29,Airplane,Cessna,172,No,Substantial,Non-Fatal,0.0,0.0,4.0,Part 135: Air Taxi & Commuter,4.0,0.0,0.0,2,CESSNA_172,Reciprocating,VMC
+2005-09-10,Airplane,Israel Aircraft Industries,1124,No,Substantial,Non-Fatal,0.0,0.0,10.0,Part 135: Air Taxi & Commuter,10.0,0.0,0.0,2,ISRAEL AIRCRAFT INDUSTRIES_1124,Turbo Fan,VMC
+2005-09-11,Airplane,Cessna,185F,No,Substantial,Non-Fatal,0.0,0.0,2.0,Part 135: Air Taxi & Commuter,2.0,0.0,0.0,2,CESSNA_185F,Reciprocating,VMC
+2005-09-21,Airplane,Airbus Industrie,A320,No,Minor,Incident,0.0,0.0,146.0,Part 121: Air Carrier,146.0,0.0,0.0,1,AIRBUS INDUSTRIE_A320,Turbo Jet,VMC
+2005-10-05,Airplane,Beech,58,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,BEECH_58,Reciprocating,IMC
+2005-10-13,Airplane,Cessna,310R,No,Substantial,Non-Fatal,0.0,0.0,3.0,Part 135: Air Taxi & Commuter,3.0,0.0,0.0,2,CESSNA_310R,Reciprocating,IMC
+2005-10-19,Airplane,Hawker Siddeley,125-700,No,Substantial,Non-Fatal,0.0,0.0,10.0,Part 135: Air Taxi & Commuter,10.0,0.0,0.0,2,HAWKER SIDDELEY_125-700,Turbo Fan,VMC
+2005-11-08,Airplane,Embraer,110P1,No,Destroyed,Non-Fatal,0.0,1.0,0.0,Part 135: Air Taxi & Commuter,1.0,1.0,1.0,3,EMBRAER_110P1,Turbo Prop,VMC
+2005-12-07,Airplane,Cessna,310Q,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,CESSNA_310Q,Reciprocating,VMC
+2005-12-13,Airplane,Cessna,208B,No,Substantial,Non-Fatal,0.0,0.0,4.0,Part 135: Air Taxi & Commuter,4.0,0.0,0.0,2,CESSNA_208B,Turbo Prop,VMC
+2005-12-15,Airplane,Piper,PA-23-250,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,PIPER_PA-23-250,Reciprocating,VMC
+2005-12-19,Airplane,Beech,A36,No,Substantial,Non-Fatal,0.0,0.0,3.0,Part 135: Air Taxi & Commuter,3.0,0.0,0.0,2,BEECH_A36,Reciprocating,VMC
+2005-12-19,Airplane,Cessna,208,No,Substantial,Non-Fatal,0.0,0.0,2.0,Part 135: Air Taxi & Commuter,2.0,0.0,0.0,2,CESSNA_208,Turbo Prop,VMC
+2006-01-02,Airplane,Saab-scania Ab (saab),SF340B+,No,0,Incident,0.0,0.0,28.0,Part 121: Air Carrier,28.0,0.0,0.0,0,SAAB-SCANIA AB (SAAB)_SF340B+,Turbo Prop,IMC
+2006-03-20,Airplane,Aero Commander,AC50,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,AERO COMMANDER_AC50,Reciprocating,IMC
+2006-03-21,Airplane,Mcdonnell Douglas,DC-9-82,No,Minor,Incident,0.0,0.0,138.0,Part 121: Air Carrier,138.0,0.0,0.0,1,MCDONNELL DOUGLAS_DC-9-82,Turbo Fan,VMC
+2006-04-04,Airplane,Mcdonnell Douglas,DC10,No,Substantial,Non-Fatal,0.0,0.0,3.0,Part 121: Air Carrier,3.0,0.0,0.0,2,MCDONNELL DOUGLAS_DC10,Turbo Fan,VMC
+2006-04-19,Airplane,Cessna,310R,No,Substantial,Non-Fatal,0.0,0.0,3.0,Part 135: Air Taxi & Commuter,3.0,0.0,0.0,2,CESSNA_310R,Reciprocating,VMC
+2006-05-14,Airplane,Cessna,207,No,Substantial,Non-Fatal,0.0,0.0,3.0,Part 135: Air Taxi & Commuter,3.0,0.0,0.0,2,CESSNA_207,Reciprocating,VMC
+2006-07-11,Airplane,Piper,PA-31-350,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,PIPER_PA-31-350,Reciprocating,VMC
+2006-07-11,Airplane,Cessna,206F,No,Substantial,Non-Fatal,0.0,0.0,5.0,Part 135: Air Taxi & Commuter,5.0,0.0,0.0,2,CESSNA_206F,Reciprocating,VMC
+2006-07-15,Airplane,Learjet,55,No,Substantial,Non-Fatal,0.0,0.0,5.0,Part 135: Air Taxi & Commuter,5.0,0.0,0.0,2,LEARJET_55,Turbo Fan,VMC
+2006-07-28,Airplane,Boeing,MD-10-10F,No,Substantial,Non-Fatal,0.0,0.0,3.0,Part 121: Air Carrier,3.0,0.0,0.0,2,BOEING_MD-10-10F,Turbo Fan,VMC
+2006-08-16,Airplane,Piper,PA-18,No,Substantial,Non-Fatal,0.0,0.0,2.0,Part 135: Air Taxi & Commuter,2.0,0.0,0.0,2,PIPER_PA-18,Reciprocating,VMC
+2006-09-08,Airplane,Embraer,EMB-170,No,Substantial,Non-Fatal,0.0,0.0,179.0,Part 121: Air Carrier,179.0,0.0,0.0,2,EMBRAER_EMB-170,Turbo Fan,VMC
+2006-09-08,Airplane,Airbus Industrie,A319-112,No,Minor,Non-Fatal,0.0,0.0,179.0,Part 129: Foreign,179.0,0.0,0.0,1,AIRBUS INDUSTRIE_A319-112,Turbo Fan,VMC
+2006-11-07,Airplane,Airbus,A-320-200,No,Minor,Non-Fatal,0.0,0.0,216.0,Part 121: Air Carrier,216.0,0.0,0.0,1,AIRBUS_A-320-200,Turbo Fan,IMC
+2006-12-10,Airplane,"Bombardier, Inc.",BD-100-1A10,No,Substantial,Non-Fatal,0.0,0.0,2.0,Part 135: Air Taxi & Commuter,2.0,0.0,0.0,2,"BOMBARDIER, INC._BD-100-1A10",Turbo Fan,VMC
+2006-12-26,Airplane,Boeing,737-3A4,No,Substantial,Non-Fatal,0.0,0.0,208.0,Part 121: Air Carrier,208.0,0.0,0.0,2,BOEING_737-3A4,Turbo Fan,VMC
+2006-12-26,Airplane,Boeing,747-436,No,0,Incident,0.0,0.0,368.0,Part 129: Foreign,368.0,0.0,0.0,0,BOEING_747-436,Turbo Fan,VMC
+2006-12-26,Airplane,Boeing,737-7H4,No,Minor,Non-Fatal,0.0,0.0,208.0,Part 121: Air Carrier,208.0,0.0,0.0,1,BOEING_737-7H4,Turbo Fan,VMC
+2007-01-10,Airplane,Learjet,35A,No,Substantial,Non-Fatal,0.0,0.0,2.0,Part 135: Air Taxi & Commuter,2.0,0.0,0.0,2,LEARJET_35A,Turbo Fan,VMC
+2007-01-12,Airplane,Mitsubishi,MU-2B-36,No,Minor,Incident,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,1,MITSUBISHI_MU-2B-36,Turbo Prop,VMC
+2007-04-07,Airplane,Canadair,CL-600-2B19,No,Substantial,Non-Fatal,0.0,0.0,4.0,Part 121: Air Carrier,4.0,0.0,0.0,2,CANADAIR_CL-600-2B19,Turbo Fan,VMC
+2007-04-11,Airplane,Cessna,210N,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,CESSNA_210N,Reciprocating,VMC
+2007-04-12,Airplane,Bombardier,CL-600-2B19,No,Substantial,Non-Fatal,0.0,0.0,52.0,Part 121: Air Carrier,52.0,0.0,0.0,2,BOMBARDIER_CL-600-2B19,Turbo Fan,IMC
+2007-04-25,Airplane,Boeing,737-300,No,0,Non-Fatal,0.0,1.0,102.0,Part 121: Air Carrier,103.0,1.0,0.009708737864077669,0,BOEING_737-300,Turbo Fan,IMC
+2007-04-26,Airplane,Cessna,310R,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,CESSNA_310R,Reciprocating,VMC
+2007-05-02,Airplane,Mcdonnell Douglas,DC-10-30,No,0,Incident,0.0,0.0,306.0,Part 121: Air Carrier,306.0,0.0,0.0,0,MCDONNELL DOUGLAS_DC-10-30,Turbo Fan,VMC
+2007-05-18,Airplane,Douglas,DC-9-31,No,Substantial,Non-Fatal,0.0,0.0,99.0,Part 121: Air Carrier,99.0,0.0,0.0,2,DOUGLAS_DC-9-31,Turbo Jet,VMC
+2007-05-22,Airplane,Cessna,421C,No,Substantial,Non-Fatal,0.0,0.0,5.0,Part 135: Air Taxi & Commuter,5.0,0.0,0.0,2,CESSNA_421C,Reciprocating,VMC
+2007-06-04,Airplane,Cessna,550,No,Destroyed,Fatal(6),6.0,0.0,0.0,Part 135: Air Taxi & Commuter,6.0,6.0,1.0,3,CESSNA_550,Turbo Fan,VMC
+2007-06-13,Airplane,"Bombardier, Inc.",CL-600-2B19,No,0,Incident,0.0,0.0,53.0,Part 121: Air Carrier,53.0,0.0,0.0,0,"BOMBARDIER, INC._CL-600-2B19",Turbo Fan,VMC
+2007-06-17,Airplane,Britten-norman,BN2A26,No,Substantial,Non-Fatal,0.0,0.0,7.0,Part 135: Air Taxi & Commuter,7.0,0.0,0.0,2,BRITTEN-NORMAN_BN2A26,Reciprocating,VMC
+2007-06-27,Airplane,Mcdonnell Douglas,MD 83,No,Substantial,Non-Fatal,0.0,0.0,501.0,Part 121: Air Carrier,501.0,0.0,0.0,2,MCDONNELL DOUGLAS_MD 83,Turbo Fan,VMC
+2007-06-27,Airplane,Boeing,777-222,No,Minor,Non-Fatal,0.0,0.0,501.0,Part 121: Air Carrier,501.0,0.0,0.0,1,BOEING_777-222,Turbo Fan,VMC
+2007-07-12,Airplane,Boeing,777-232,No,0,Non-Fatal,0.0,1.0,250.0,Part 121: Air Carrier,251.0,1.0,0.00398406374501992,0,BOEING_777-232,Turbo Fan,VMC
+2007-08-05,Airplane,Beech,E90B,No,Destroyed,Fatal(5),5.0,0.0,0.0,Part 135: Air Taxi & Commuter,5.0,5.0,1.0,3,BEECH_E90B,Turbo Prop,VMC
+2007-08-16,Airplane,De Havilland,DHC-2,No,Destroyed,Fatal(5),5.0,4.0,0.0,Part 135: Air Taxi & Commuter,9.0,9.0,1.0,3,DE HAVILLAND_DHC-2,Reciprocating,VMC
+2007-08-23,Airplane,Learjet Inc,60,No,Substantial,Non-Fatal,0.0,0.0,6.0,Part 135: Air Taxi & Commuter,6.0,0.0,0.0,2,LEARJET INC_60,Turbo Fan,IMC
+2007-09-10,Airplane,Cessna,185,No,Substantial,Non-Fatal,0.0,0.0,4.0,Part 135: Air Taxi & Commuter,4.0,0.0,0.0,2,CESSNA_185,Reciprocating,VMC
+2007-09-21,Airplane,Beech,H-18,No,Destroyed,Non-Fatal,0.0,1.0,0.0,Part 135: Air Taxi & Commuter,1.0,1.0,1.0,3,BEECH_H-18,Reciprocating,VMC
+2007-09-28,Airplane,Mcdonnell Douglas,DC-9-82 (MD-82),No,Substantial,Non-Fatal,0.0,0.0,143.0,Part 121: Air Carrier,143.0,0.0,0.0,2,MCDONNELL DOUGLAS_DC-9-82 (MD-82),Turbo Fan,VMC
+2007-10-07,Airplane,De Havilland,DHC-2,No,Substantial,Non-Fatal,0.0,0.0,2.0,Part 135: Air Taxi & Commuter,2.0,0.0,0.0,2,DE HAVILLAND_DHC-2,Reciprocating,VMC
+2007-10-09,Airplane,Airbus Industrie,A320-232,No,Minor,Incident,0.0,0.0,125.0,Part 121: Air Carrier,125.0,0.0,0.0,1,AIRBUS INDUSTRIE_A320-232,Turbo Fan,VMC
+2007-10-20,Airplane,Airbus Industrie,A320-211,No,Minor,Incident,0.0,0.0,138.0,Part 121: Air Carrier,138.0,0.0,0.0,1,AIRBUS INDUSTRIE_A320-211,Turbo Jet,VMC
+2007-11-04,Airplane,Piper,PA-31-350,No,Substantial,Non-Fatal,0.0,0.0,6.0,Part 135: Air Taxi & Commuter,6.0,0.0,0.0,2,PIPER_PA-31-350,Reciprocating,VMC
+2007-11-06,Airplane,Beech,E18S,No,Substantial,Non-Fatal,0.0,0.0,2.0,Part 135: Air Taxi & Commuter,2.0,0.0,0.0,2,BEECH_E18S,Reciprocating,VMC
+2007-11-06,Airplane,Cessna,C208B,No,Substantial,Non-Fatal,0.0,0.0,2.0,Part 135: Air Taxi & Commuter,2.0,0.0,0.0,2,CESSNA_C208B,Turbo Prop,VMC
+2007-11-17,Airplane,Boeing,737-300,No,Minor,Incident,0.0,0.0,138.0,Part 121: Air Carrier,138.0,0.0,0.0,1,BOEING_737-300,Turbo Fan,VMC
+2007-12-05,Airplane,Cessna,208B,No,Destroyed,Fatal(2),2.0,0.0,0.0,Part 135: Air Taxi & Commuter,2.0,2.0,1.0,3,CESSNA_208B,Turbo Prop,IMC
+2007-12-14,Airplane,Boeing,777-222,No,Minor,Non-Fatal,0.0,1.0,263.0,Part 121: Air Carrier,264.0,1.0,0.003787878787878788,1,BOEING_777-222,Turbo Fan,VMC
+2007-12-16,Airplane,Bombardier,CL600-2B19,No,Substantial,Non-Fatal,0.0,0.0,34.0,Part 121: Air Carrier,34.0,0.0,0.0,2,BOMBARDIER_CL600-2B19,Turbo Fan,IMC
+2007-12-18,Airplane,Cessna,310R,No,Substantial,Non-Fatal,0.0,0.0,1.0,Part 135: Air Taxi & Commuter,1.0,0.0,0.0,2,CESSNA_310R,Reciprocating,VMC
+2007-12-18,Airplane,Cessna,208B,No,Substantial,Non-Fatal,0.0,1.0,0.0,Part 135: Air Taxi & Commuter,1.0,1.0,1.0,2,CESSNA_208B,Turbo Prop,VMC
+2007-12-25,Airplane,Airbus Industrie,A330-323,No,0,Non-Fatal,0.0,1.0,291.0,Part 121: Air Carrier,292.0,1.0,0.003424657534246575,0,AIRBUS INDUSTRIE_A330-323,Turbo Fan,VMC
+2007-12-25,Airplane,Mcdonnell Douglas,DC-9-83,No,0,Non-Fatal,0.0,2.0,112.0,Part 121: Air Carrier,114.0,2.0,0.017543859649122806,0,MCDONNELL DOUGLAS_DC-9-83,Turbo Fan,VMC
